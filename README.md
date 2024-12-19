@@ -4,6 +4,11 @@ Todos deverão ser completados para que no final possa pedir seu voucher para re
 Utilize todas as informações abaixo para seguir sua caminhada.
 Boa sorte :)
 
+## Anotações
+- [DS101: Introduction to Apache Cassandra™](ds_101.md)
+- [DS201: Foundations of Apache Cassandra™](ds_201.md)
+- [DS220: Data Modeling with Apache Cassandra™](ds_220.md)
+
 ## Links úteis
 - [Datastax Certificações](https://www.datastax.com/dev/certifications)
 - [YouTube Datastax](https://www.youtube.com/@DataStaxDevs)
